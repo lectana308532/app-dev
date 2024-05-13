@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 
 #Edit
 ##Favorite Series
